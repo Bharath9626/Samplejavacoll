@@ -29,7 +29,7 @@ public class Project1 {
     	   }*/
        }
        int k=1;
-       for(int s=1;s<7;s++)
+     /*  for(int s=1;s<7;s++)
        {
     	   for(int j=1;j<s;j++)
     	   {
@@ -38,7 +38,7 @@ public class Project1 {
     		   k++;
     	   }
     	   
-       }
+       }*/
        for(int i=1;i<5;i++)
        {
        for(int j=1;j<=i;j++)
